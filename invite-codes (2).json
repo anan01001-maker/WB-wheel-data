@@ -1,0 +1,62 @@
+{
+  "validCodes": [
+    "GEUGPXFU",
+    "B2CEXG48",
+    "GPBZUVWH",
+    "FH2V3SJU"
+  ],
+  "usedCodes": [
+    "GEUGPXFU",
+    "B2CEXG48",
+    "GPBZUVWH"
+  ],
+  "todayData": {
+    "date": "2026-02-22",
+    "participatedUIDs": [
+      "VIP2828V",
+      "aaaa5555",
+      "VIP9966V"
+    ],
+    "winnerDetails": [
+      {
+        "prize": "5888",
+        "uid": "VIP2828V",
+        "phone": "0102340628",
+        "time": "03:07:52"
+      },
+      {
+        "prize": "888",
+        "uid": "aaaa5555",
+        "phone": "010666555",
+        "time": "03:30:20"
+      },
+      {
+        "prize": "88",
+        "uid": "VIP9966V",
+        "phone": "0123456789",
+        "time": "06:48:18",
+        "inviteCode": "GPBZUVWH"
+      }
+    ],
+    "prizeColors": [
+      "hsl(16, 75%, 65%)",
+      "hsl(50, 75%, 65%)",
+      "hsl(280, 75%, 65%)",
+      "hsl(126, 75%, 65%)",
+      "hsl(241, 75%, 65%)",
+      "hsl(136, 75%, 65%)"
+    ]
+  },
+  "allPlayers": [
+    {
+      "prize": "88",
+      "uid": "VIP9966V",
+      "phone": "0123456789",
+      "time": "06:48:18",
+      "inviteCode": "GPBZUVWH",
+      "date": "2026-02-22"
+    }
+  ],
+  "updateTime": "2026/2/22 07:39:58",
+  "version": "1.0"
+}
